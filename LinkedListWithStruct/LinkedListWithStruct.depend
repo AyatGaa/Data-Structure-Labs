@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732633719 source:e:\iti\labs\datastructure\linkedlistwithstruct\main.cpp
+	<iostream>
+	<string.h>
+
